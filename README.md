@@ -8,8 +8,8 @@ Data
 samples.json
 
 ## Software
-JavaScript
-Plotly
-HTML/CSS
-Bootstrap 
-d3
+JavaScript,
+Plotly,
+HTML/CSS,
+Bootstrap, 
+and d3
